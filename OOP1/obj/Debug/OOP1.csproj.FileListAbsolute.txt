@@ -1,8 +1,0 @@
-D:\C#\OOP1\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
-D:\C#\OOP1\OOP1\obj\Debug\OOP1.csproj.SuggestedBindingRedirects.cache
-D:\C#\OOP1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
-D:\C#\OOP1\OOP1\bin\Debug\OOP1.exe.config
-D:\C#\OOP1\OOP1\bin\Debug\OOP1.exe
-D:\C#\OOP1\OOP1\bin\Debug\OOP1.pdb
-D:\C#\OOP1\OOP1\obj\Debug\OOP1.exe
-D:\C#\OOP1\OOP1\obj\Debug\OOP1.pdb
