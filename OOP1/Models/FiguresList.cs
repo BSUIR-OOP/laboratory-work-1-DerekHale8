@@ -10,9 +10,7 @@ namespace OOP1
     {
         private List<Figure> figures;
 
-        private FiguresList() { }
-
-        public FiguresList(params Figure[] fig)
+        public FiguresList(Figure[] fig)   
         {
             figures = new List<Figure>();
             for (int i = 0; i < fig.Length; i++)
