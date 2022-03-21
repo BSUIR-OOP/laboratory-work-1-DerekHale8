@@ -12,7 +12,6 @@ namespace OOP1
 
         private int Length { get; set; }
 
-        private Square() { }
 
         public Square(Point a, int length)
         {

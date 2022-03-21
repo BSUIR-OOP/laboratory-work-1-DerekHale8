@@ -13,7 +13,6 @@ namespace OOP1
 
         private int B { get; set; }
 
-        private Ellipse() { }
 
         public Ellipse(Point center, int a, int b)
         {

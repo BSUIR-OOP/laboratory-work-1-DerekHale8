@@ -11,8 +11,6 @@ namespace OOP1
         private Point Center { get; set; }
         private int Radius { get; set; }
 
-        private Circle() { }
-
         public Circle(Point center, int radius)
         {
             Center = center;

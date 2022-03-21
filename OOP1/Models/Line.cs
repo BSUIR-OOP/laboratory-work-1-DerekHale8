@@ -11,7 +11,6 @@ namespace OOP1
         private Point A { get; set; }
         private Point B { get; set; }
 
-        private Line() { }
 
         public Line(Point a, Point b)
         {

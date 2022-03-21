@@ -11,7 +11,6 @@ namespace OOP1
         public int xPos { get; set; }
         public int yPos { get; set; }
 
-        public Point() { }
 
         public Point(int x, int y)
         {

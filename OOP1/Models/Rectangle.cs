@@ -14,7 +14,6 @@ namespace OOP1
 
         private int Width { get; set; }
 
-        private Rectangle() { }
 
         public Rectangle(Point a, int height, int width)
         {

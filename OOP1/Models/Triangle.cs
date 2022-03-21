@@ -14,7 +14,6 @@ namespace OOP1
 
         private Point C { get; set; }
 
-        private Triangle() { }
 
         public Triangle(Point a, Point b, Point c)
         {
